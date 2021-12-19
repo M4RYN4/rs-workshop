@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Some text for header 
-Changes from <master> new changes!!
+Changes from <master> new changes
+Changes from <first>
 
-=======
-Some text for header
-changed
->>>>>>> 43072ce (Footer added)
+Text from <master> new changes!!!
