@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Some text for header
 changed
+=======
+Some text for header 
+>>>>>>> main
